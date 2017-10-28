@@ -70,4 +70,4 @@ To improve the performance of the rover, I would try to improve the navigation b
 
 ![alt text][image2]
 
-
+I referenced the project walkthrough and the robotics nanodegree slack to complete this project.
